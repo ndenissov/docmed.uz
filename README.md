@@ -1,12 +1,20 @@
 # DocMed-Uz Platform
 
+[![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-5.1-092E20?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
+[![Django REST Framework](https://img.shields.io/badge/DRF-a30000?style=for-the-badge&logo=django)](https://www.django-rest-framework.org/)
+[![Poetry](https://img.shields.io/badge/Poetry-Ready-blue?style=for-the-badge&logo=poetry)](https://python-poetry.org/)
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/NIKDISSV-Forever/docmed-uz-django?style=for-the-badge)](https://github.com/NIKDISSV-Forever/docmed-uz-django)
+[![GitHub Stars](https://img.shields.io/github/stars/NIKDISSV-Forever/docmed-uz-django?style=for-the-badge&color=F3DF26)](https://github.com/NIKDISSV-Forever/docmed-uz-django/stargazers)
+[![License](https://img.shields.io/badge/License-Custom-red.svg?style=for-the-badge)](https://github.com/NIKDISSV-Forever/docmed-uz-django/blob/main/LICENSE)
+
 **Empowering Medical Professionals with Advanced Learning and Resources**
 
 DocMed-Uz is a comprehensive Django-based web platform designed to provide medical professionals and students with access to high-quality educational courses, specialized modules, and up-to-date medical information. Our goal is to facilitate continuous learning and professional development within the medical community.
 
 ---
 
-## ✨ Core Features
+## Core Features
 
 *   **Interactive Course Management:** Curated courses covering diverse medical specializations.
 *   **Modular Learning:** Individual modules for focused learning, which can be part of larger courses or standalone.
@@ -20,7 +28,7 @@ DocMed-Uz is a comprehensive Django-based web platform designed to provide medic
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 *   **Backend:** Python 3.13, Django 5.1, Django REST Framework
 *   **Database:** SQLite (for development, configurable for PostgreSQL/MySQL in production)
@@ -29,7 +37,7 @@ DocMed-Uz is a comprehensive Django-based web platform designed to provide medic
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -99,7 +107,7 @@ DocMed-Uz is a comprehensive Django-based web platform designed to provide medic
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the terms of the custom license. Please see the [LICENSE](./LICENSE) file for full details.
 Third-party libraries and dependencies included in this project are subject to their own respective licenses.
